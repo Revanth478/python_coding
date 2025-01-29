@@ -253,10 +253,11 @@ print(a,b,sep=" @ ")
 
 # 11. **Printing Variables and Constants:**
 # - Create a program that prints the value of a variable and a constant.
+"""
+a=int(input("enter a number:"))
+print(a)
 
-
-
-
+"""
 
 
 # 12. **Print with End Parameter:**

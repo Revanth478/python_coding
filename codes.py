@@ -326,11 +326,12 @@ print(f"division is:{a/b}")
 
 # 18. **Print with File Parameter:**
 # - Write a program that prints to a file using the `file` parameter in the `print` function.
+"""
 
+with open("output.txt","w") as file:
+    print("Hello World",file=file)
 
-
-
-
+"""
 
 
 

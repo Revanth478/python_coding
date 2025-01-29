@@ -199,7 +199,7 @@ print(a+""+b)
 # 5. **Escape Characters:**
 # -Create a program that uses escape characters to print a multi-line string.
 
-
+print("hello \n world")
 
 
 # 6. **Print without Line Break:**

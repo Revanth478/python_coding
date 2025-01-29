@@ -337,13 +337,17 @@ with open("output.txt","w") as file:
 
 # 19. **Conditional Printing:**
 # - Develop a program that uses the `print` function inside a conditional statement.
+"""
 
+a=int(input("enter a number"))
+if(a<0):
+    print("negative")
+elif(a>0):
+    print("positive")
+else:
+    print("zero")
 
-
-
-
-
-
+"""
 
 
 # 20. **Print with f-strings:**

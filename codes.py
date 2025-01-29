@@ -285,25 +285,28 @@ print(path)
 # 14. **Print with Triple Quotes:**
 # - Create a program that uses triple-quoted strings to print a multi-line message.
 
-"""
+# """
 
-print(""" hello this is an triple quoted sentence """)
+# # print(""" hello this is an triple quoted sentence """)
 
-"""
+# """
 
 
 # 15. **Printing Special Characters:**
 # - Write a program that prints special characters (e.g., copyright symbol, newline) using
 # Unicode escape sequences.
+"""
+print("\u0009")
+print("\n")
 
-
-
-
+"""
 
 # 16. **Print with Separator and End:**
 # - Develop a program that uses both the `sep` and `end` parameters in the `print` function.
 
-
+# a=input("enter a name1:")
+# b=input("enter a name2:")
+# print(a,b,sep="-",end="...")
 
 
 

@@ -262,12 +262,13 @@ print(a)
 
 # 12. **Print with End Parameter:**
 # - Write a program that prints multiple items with a custom `end` parameter.
+"""
 
+a=int(input("enter a number:"))
+b=input("enter a name:")
+print(a,b,end="..")
 
-
-
-
-
+"""
 
 # 13. **Printing Raw Strings:**
 # - Develop a program that uses a raw string to print a path without interpreting escape

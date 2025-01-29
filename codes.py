@@ -273,11 +273,12 @@ print(a,b,end="..")
 # 13. **Printing Raw Strings:**
 # - Develop a program that uses a raw string to print a path without interpreting escape
 # characters.
+"""
 
+path=r"D:\python\empty.pdf"
+print(path)
 
-
-
-
+"""
 
 
 

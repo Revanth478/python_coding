@@ -212,7 +212,8 @@ print("hello","world",sep="")
 # 7. **Variable Printing:**
 # - Develop a program that takes user input and prints a personalized greeting.
 
-
+a=input("enter a name:")
+print("hello",a)
 
 
 

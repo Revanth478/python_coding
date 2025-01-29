@@ -352,3 +352,10 @@ else:
 
 # 20. **Print with f-strings:**
 # - Write a program that uses f-strings to print variables and expressions.
+"""
+
+name=input("enter a name")
+age=int(input("enter ur age:"))
+print(f"Hello,{name}! You are {age} old")
+
+"""

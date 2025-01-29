@@ -243,11 +243,13 @@ print(f"the number with 2 decimal places: {num:.2f}")
 
 # 10. **Print with Separator:**
 # - Develop a program that prints multiple items separated by a specific character.
+"""
 
+a=input("enter a name")
+b=int(input("enter a number"))
+print(a,b,sep=" @ ")
 
-
-
-
+"""
 
 # 11. **Printing Variables and Constants:**
 # - Create a program that prints the value of a variable and a constant.

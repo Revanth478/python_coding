@@ -198,15 +198,15 @@ print(a+""+b)
 
 # 5. **Escape Characters:**
 # -Create a program that uses escape characters to print a multi-line string.
-
+"""
 print("hello \n world")
-
+"""
 
 # 6. **Print without Line Break:**
 # - Write a program that prints multiple items on the same line without line breaks.
-
-
-
+"""
+print("hello","world",sep="")
+"""
 
 
 # 7. **Variable Printing:**

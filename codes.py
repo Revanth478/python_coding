@@ -303,11 +303,11 @@ print("\n")
 
 # 16. **Print with Separator and End:**
 # - Develop a program that uses both the `sep` and `end` parameters in the `print` function.
-
-# a=input("enter a name1:")
-# b=input("enter a name2:")
-# print(a,b,sep="-",end="...")
-
+"""
+a=input("enter a name1:")
+b=input("enter a name2:")
+print(a,b,sep="@",end=".com")
+"""
 
 
 

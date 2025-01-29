@@ -314,10 +314,14 @@ print(a,b,sep="@",end=".com")
 # 17. **Formatted Output with Arithmetic:**
 # - Create a program that uses formatted strings to print the result of an arithmetic
 # expression.
-
-
-
-
+"""
+a=int(input("enter number1:"))
+b=int(input("enter number2:"))
+print(f"addition is:{a+b}")
+print(f"substraction is:{a-b}")
+print(f"multiplication is:{a*b}")
+print(f"division is:{a/b}")
+"""
 
 
 # 18. **Print with File Parameter:**

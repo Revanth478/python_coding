@@ -285,11 +285,11 @@ print(path)
 # 14. **Print with Triple Quotes:**
 # - Create a program that uses triple-quoted strings to print a multi-line message.
 
+"""
 
+print(""" hello this is an triple quoted sentence """)
 
-
-
-
+"""
 
 
 # 15. **Printing Special Characters:**

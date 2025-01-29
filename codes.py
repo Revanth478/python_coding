@@ -211,18 +211,23 @@ print("hello","world",sep="")
 
 # 7. **Variable Printing:**
 # - Develop a program that takes user input and prints a personalized greeting.
-
+"""
 a=input("enter a name:")
 print("hello",a)
-
+"""
 
 
 # 8. **Number Printing:**
 # - Create a program that prints the result of a mathematical expression.
+"""
+a=int(input("enter a number"))
+b=int(input("enter another number"))
+print("sum is",a+b)
+print("difference is",a-b)
+print("product is",a*b)
+print("division is",a/b)
 
-
-
-
+"""
 
 
 # 9. **Precision Printing:**

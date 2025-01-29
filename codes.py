@@ -233,10 +233,11 @@ print("division is",a/b)
 # 9. **Precision Printing:**
 # - Write a program that uses formatted strings to print a floating-point number with two
 # decimal places.
+"""
+num=float(input("enter a decimal number"))
+print(f"the number with 2 decimal places: {num:.2f}")
 
-
-
-
+"""
 
 
 

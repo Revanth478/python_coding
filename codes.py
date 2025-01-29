@@ -162,3 +162,169 @@ num=int(input("enter a number"))
 print("sum of digits is:",sum_of_digits(num))
 
 """
+
+# Print() method Python:
+
+# 1. **Basic Print:**
+# - Write a program that prints "Hello, World!" to the console.
+"""
+print("Hello Woorld")
+"""
+
+# 2. **Multiple Prints:**
+# - Create a program that uses multiple `print` statements to output a message with line
+# breaks.
+"""
+print("Hello")
+print("This is Print method")
+"""
+
+
+# 3. **Formatted Output:**
+# - Write a program that uses formatted strings to print variables with descriptive messages.
+"""
+name=input("enter ur name:")
+print(f"my name is  {name}")
+"""
+
+
+# 4. **String Concatenation:**
+# - Develop a program that prints the concatenation of two strings.
+"""
+a=input()
+b=input()
+print(a+""+b)
+"""
+
+# 5. **Escape Characters:**
+# -Create a program that uses escape characters to print a multi-line string.
+
+
+
+
+# 6. **Print without Line Break:**
+# - Write a program that prints multiple items on the same line without line breaks.
+
+
+
+
+
+# 7. **Variable Printing:**
+# - Develop a program that takes user input and prints a personalized greeting.
+
+
+
+
+
+# 8. **Number Printing:**
+# - Create a program that prints the result of a mathematical expression.
+
+
+
+
+
+
+# 9. **Precision Printing:**
+# - Write a program that uses formatted strings to print a floating-point number with two
+# decimal places.
+
+
+
+
+
+
+
+# 10. **Print with Separator:**
+# - Develop a program that prints multiple items separated by a specific character.
+
+
+
+
+
+
+# 11. **Printing Variables and Constants:**
+# - Create a program that prints the value of a variable and a constant.
+
+
+
+
+
+
+# 12. **Print with End Parameter:**
+# - Write a program that prints multiple items with a custom `end` parameter.
+
+
+
+
+
+
+
+# 13. **Printing Raw Strings:**
+# - Develop a program that uses a raw string to print a path without interpreting escape
+# characters.
+
+
+
+
+
+
+
+
+# 14. **Print with Triple Quotes:**
+# - Create a program that uses triple-quoted strings to print a multi-line message.
+
+
+
+
+
+
+
+
+# 15. **Printing Special Characters:**
+# - Write a program that prints special characters (e.g., copyright symbol, newline) using
+# Unicode escape sequences.
+
+
+
+
+
+# 16. **Print with Separator and End:**
+# - Develop a program that uses both the `sep` and `end` parameters in the `print` function.
+
+
+
+
+
+
+# 17. **Formatted Output with Arithmetic:**
+# - Create a program that uses formatted strings to print the result of an arithmetic
+# expression.
+
+
+
+
+
+
+# 18. **Print with File Parameter:**
+# - Write a program that prints to a file using the `file` parameter in the `print` function.
+
+
+
+
+
+
+
+
+# 19. **Conditional Printing:**
+# - Develop a program that uses the `print` function inside a conditional statement.
+
+
+
+
+
+
+
+
+
+# 20. **Print with f-strings:**
+# - Write a program that uses f-strings to print variables and expressions.
